@@ -8,7 +8,7 @@
   "server": {
     "ip": "ozoaoaso-XEUX.aternos.me", 
     "port": 62009,   
-    "version": "1.12.1"   
+    "version": "1.21.8"   
   },
 
   "position": {
@@ -34,11 +34,6 @@
       "repeat": true,
       "repeat-delay": 60,
 
-      "messages": [
-        "I'm a regular player",
-        
-        "I Like to Play Minecraft!"
-      ]
     },
 
     "chat-log": true,
