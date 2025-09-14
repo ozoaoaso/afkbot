@@ -8,7 +8,7 @@
   "server": {
     "ip": "ozoaoaso-XEUX.aternos.me", 
     "port": 62009,   
-    "version": "1.21.8"   
+    "version": "1.12.1"   
   },
 
   "position": {
@@ -32,9 +32,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 60, 
+       
+     },
 
-    },
 
     "chat-log": true,
     "auto-reconnect": true,
