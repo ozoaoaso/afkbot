@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "AFKBOTSUPER", 
+    "username": "AFKBot", 
     "password": "",
-    "type": "offline"
+    "type": "Online"
   },
 
   "server": {
     "ip": "ozoaoaso-XEUX.aternos.me", 
     "port": 62009,   
-    "version": "1.12.1"   
+    "version": "1.21.8"   
   },
 
   "position": {
@@ -32,10 +32,13 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60, 
-       
-     },
+      "repeat-delay": 60,
 
+      "messages": [
+        "I'm a regular player",
+        "I Like to Play Minecraft!"
+      ]
+    },
 
     "chat-log": true,
     "auto-reconnect": true,
