@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "ozoaoaso-XEUX.aternos.me", 
-    "port": 62009,   
+    "ip": "Sismpp.aternos.me", 
+    "port": 19260,   
     "version": "1.21.8"   
   },
 
@@ -37,6 +37,7 @@
       "messages": [
         "I'm a regular player",
         "I Like to Play Minecraft!"
+        "i maked to help the server
       ]
     },
 
